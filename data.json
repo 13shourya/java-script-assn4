@@ -1,0 +1,40 @@
+[
+    {
+      "name": "T-Shirt",
+      "description": "A casual, short-sleeved top made from lightweight fabric like cotton or a cotton blend. It usually has a round neckline (crew neck) or a V-neck, and comes in endless colors, patterns, and designs, making it a wardrobe essential.",
+      "price": "$10",
+      "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Jeans",
+      "description": "Sturdy, versatile pants made from denim fabric. They typically feature a button or zipper fly, pockets, and a straight or tapered leg. Jeans come in various styles like skinny, bootcut, or relaxed fit, and can be light, dark, or distressed for different looks.",
+      "price": "$15",
+      "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Blazer",
+      "description": "A tailored jacket that’s more casual than a suit jacket but more polished than a regular coat. It often features structured shoulders, lapels, and buttons. Blazers can be paired with dress pants, chinos, or even jeans for a smart, versatile look.",
+      "price": "$50",
+      "image": "https://images.unsplash.com/photo-1600091166971-7f9faad6c1e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJsYXplcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Tie",
+      "description": "A long, narrow piece of fabric worn around the neck, typically tied in a knot at the front. Ties are usually made from silk, polyester, or cotton and are commonly worn with dress shirts for a polished, formal appearance.",
+      "price": "$12",
+      "image": "https://images.unsplash.com/photo-1591729652476-e7f587578d9c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Belt",
+      "description": " A long, flexible strap made from materials like leather, fabric, or synthetic blends, designed to hold pants securely around the waist. It often features a buckle for adjusting the fit, and can serve as both a functional and stylish accessory.",
+      "price": "$20",
+      "image": "https://images.unsplash.com/photo-1666723043169-22e29545675c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAzfHxiZWx0fGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Sunglasses",
+      "description": "Eyewear designed to protect the eyes from sunlight and harmful UV rays. They typically consist of tinted or polarized lenses set within a frame, available in a variety of shapes — from classic aviators and wayfarers to modern oversized designs.",
+      "price": "$35",
+      "image": "https://images.unsplash.com/photo-1666723043169-22e29545675c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAzfHxiZWx0fGVufDB8fDB8fHww"
+    }
+  ]
+  
+    
